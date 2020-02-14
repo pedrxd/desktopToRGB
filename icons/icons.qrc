@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>checked.svg</file>
+        <file>cancel.svg</file>
+        <file>icon.svg</file>
+    </qresource>
+</RCC>
